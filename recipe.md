@@ -1,7 +1,7 @@
 1. Create/clone your project repository and open it in VSCode.
 2. Open a new Bash terminal and create a virtual environment:
    ```bash
-   python3 -m venv venv
+   python3 -m venv .venv
    ```
 3. Activate the virtual environment:
    ```bash
